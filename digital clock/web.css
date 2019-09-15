@@ -1,0 +1,15 @@
+body{
+    font-size: 200px;
+    text-align: center;
+    margin-top: 20%;
+    list-style: none;
+    font-family: nos;
+    background-image: url(galaxy.jpg);
+    color: aqua;
+    
+    
+}
+@font-face{
+    src: url(digital-7.ttf);
+    font-family: nos;
+}
